@@ -2,27 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.alvindmurphy.com/</loc>
-    <lastmod>2025-03-05</lastmod>
+    <lastmod>2025-03-06</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.alvindmurphy.com/download-cv</loc>
-    <lastmod>2025-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.alvindmurphy.com/education</loc>
-    <lastmod>2025-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.alvindmurphy.com/publications</loc>
-    <lastmod>2025-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.alvindmurphy.com/working-papers</loc>
-    <lastmod>2025-03-05</lastmod>
+    <loc>https://www.alvindmurphy.com/cv.pdf</loc>
+    <lastmod>2025-03-06</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
